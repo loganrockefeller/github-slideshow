@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+2 blessed 2 B stressed
 Use the left arrow to go back!
